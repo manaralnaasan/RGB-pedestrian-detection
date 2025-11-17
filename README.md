@@ -1,4 +1,4 @@
-# RGB-pedestrian-setection
+# RGB-pedestrian-detection
 RGB pedestrian detection with keras and tensorflow
 
 To train the model,
